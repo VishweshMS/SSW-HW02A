@@ -53,7 +53,7 @@ def classifyTriangle(a,b,c):
     elif (a != b) and  (b != c) and (a != c):
         return 'Scalene'
     else:
-        return 'Isoceles'
+        return 'Isosceles'
 
 def my_brand(assignment_name):
     print("=*=*=*= Vishwesh Malur Somashekar =*=*=*=")
